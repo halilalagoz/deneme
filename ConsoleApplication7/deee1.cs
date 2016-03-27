@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication7
 {
-    class Program
+    class deee1
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine();
-
-
-            int a;
-        }
     }
 }
